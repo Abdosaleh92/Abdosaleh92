@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdosaleh92
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning & Robotics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdalrahmanmseleh@gmail.com
